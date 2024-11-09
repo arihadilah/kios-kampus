@@ -1,0 +1,20 @@
+# Node modules di frontend dan backend
+frontend/node_modules/
+backend/node_modules/
+
+# Folder .cache dan file log
+frontend/.cache/
+backend/.cache/
+*.log
+
+# Cache lainnya atau file build (contoh jika menggunakan framework tertentu)
+frontend/build/
+backend/build/
+
+# Editor dan IDE settings (contoh untuk VSCode, bisa disesuaikan dengan editor yang kamu pakai)
+.vscode/
+.idea/
+
+# File konfigurasi sistem operasional (misalnya di Windows)
+Thumbs.db
+.DS_Store
